@@ -8,7 +8,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>To do item</column_label>
+        <column_label>Task name</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
