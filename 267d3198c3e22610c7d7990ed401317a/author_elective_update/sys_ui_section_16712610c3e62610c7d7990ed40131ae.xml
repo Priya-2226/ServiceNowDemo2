@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="16712610c3e62610c7d7990ed40131ae" sys_domain="global" table="x_1791393_to_do_todo" version="3" view="User">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>to_do_item</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-01 09:50:57</sys_created_on>
+            <sys_id>22716610c3e62610c7d7990ed4013116</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1791393_to_do_todo" sys_domain="global" view="65385254c3a62610c7d7990ed401311d">16712610c3e62610c7d7990ed40131ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-01 09:50:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_1791393_to_do_todo</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-01 09:50:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16712610c3e62610c7d7990ed40131ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1791393_to_do_todo</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="To Do " source="x_1791393_to_do">267d3198c3e22610c7d7990ed401317a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="To Do ">267d3198c3e22610c7d7990ed401317a</sys_scope>
+            <sys_update_name>sys_ui_section_16712610c3e62610c7d7990ed40131ae</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-01 09:50:56</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="User" name="User">65385254c3a62610c7d7990ed401311d</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do ">267d3198c3e22610c7d7990ed401317a</application>
+        <file_path/>
+        <instance_id>8c9c65d9fb7866180921f633beefdc44</instance_id>
+        <instance_name>dev321316</instance_name>
+        <name>sys_ui_section_16712610c3e62610c7d7990ed40131ae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="16712610c3e62610c7d7990ed40131ae" sys_domain="global" table="x_1791393_to_do_todo" version="3" view="User"><sys_ui_element action="INSERT_OR_UPDATE"><element>to_do_item</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-01 09:50:57</sys_created_on><sys_id>22716610c3e62610c7d7990ed4013116</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1791393_to_do_todo" sys_domain="global" view="65385254c3a62610c7d7990ed401311d">16712610c3e62610c7d7990ed40131ae</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-01 09:50:57</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_1791393_to_do_todo</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-01 09:50:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>16712610c3e62610c7d7990ed40131ae</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1791393_to_do_todo</sys_name><sys_overrides/><sys_package display_value="To Do " source="x_1791393_to_do">267d3198c3e22610c7d7990ed401317a</sys_package><sys_policy/><sys_scope display_value="To Do ">267d3198c3e22610c7d7990ed401317a</sys_scope><sys_update_name>sys_ui_section_16712610c3e62610c7d7990ed40131ae</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-01 09:50:56</sys_updated_on><sys_user/><title>false</title><view display_value="User" name="User">65385254c3a62610c7d7990ed401311d</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1557766863</payload_hash>
+        <record_name>ToDo</record_name>
+        <reverted_from/>
+        <source>667d3198c3e22610c7d7990ed401317e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-01 09:50:57</sys_created_on>
+        <sys_id>22716610c3e62610c7d7990ed4013118</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197c565913c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-01 09:50:57</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>a67166103ce626107c356fb6206ce217</update_guid>
+        <update_guid_history>a67166103ce626107c356fb6206ce217:-1557766863</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-01 09:53:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>675e3693a5b44e568cf8deee4b3e8a19</sys_id>
+        <sys_metadata>16712610c3e62610c7d7990ed40131ae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="To Do " source="x_1791393_to_do">267d3198c3e22610c7d7990ed401317a</sys_package>
+        <sys_parent display_value="To Do Todo">e3e60a54c3262610c7d7990ed401319d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="To Do ">267d3198c3e22610c7d7990ed401317a</sys_scope>
+        <sys_scope_delete display_value="">d219ffcdf6864c548bd32544051a2d44</sys_scope_delete>
+        <sys_update_name>sys_ui_section_16712610c3e62610c7d7990ed40131ae</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_16712610c3e62610c7d7990ed40131ae">22716610c3e62610c7d7990ed4013118</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-01 09:53:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

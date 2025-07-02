@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="d2712610c3e62610c7d7990ed40131af" sys_domain="global" table="x_1791393_to_do_todo" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-01 09:50:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e712610c3e62610c7d7990ed40131b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1791393_to_do_todo" name="x_1791393_to_do_todo" sys_domain="global" view="65385254c3a62610c7d7990ed401311d">d2712610c3e62610c7d7990ed40131af</sys_ui_form>
+            <sys_ui_section caption="Todo" display_value="Todo" name="x_1791393_to_do_todo" sys_domain="global" view="65385254c3a62610c7d7990ed401311d">61691a94c3a62610c7d7990ed40131c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-01 09:50:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-01 09:53:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a412a250c3e62610c7d7990ed401311f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1791393_to_do_todo" name="x_1791393_to_do_todo" sys_domain="global" view="65385254c3a62610c7d7990ed401311d">d2712610c3e62610c7d7990ed40131af</sys_ui_form>
+            <sys_ui_section caption="New section 2" display_value="New section 2" name="x_1791393_to_do_todo" sys_domain="global" view="65385254c3a62610c7d7990ed401311d">e4126250c3e62610c7d7990ed40131a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-01 09:53:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-01 09:55:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a726a50c3e62610c7d7990ed40131ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1791393_to_do_todo" name="x_1791393_to_do_todo" sys_domain="global" view="65385254c3a62610c7d7990ed401311d">d2712610c3e62610c7d7990ed40131af</sys_ui_form>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_1791393_to_do_todo" sys_domain="global" view="65385254c3a62610c7d7990ed401311d">0e726a50c3e62610c7d7990ed40131aa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-01 09:55:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1791393_to_do_todo</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-01 09:50:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2712610c3e62610c7d7990ed40131af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1791393_to_do_todo</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="To Do " source="x_1791393_to_do">267d3198c3e22610c7d7990ed401317a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="To Do ">267d3198c3e22610c7d7990ed401317a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_d2712610c3e62610c7d7990ed40131af</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-01 09:50:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="User" name="User">65385254c3a62610c7d7990ed401311d</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
